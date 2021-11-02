@@ -1,0 +1,2 @@
+add desktop icon: ~/.local/share/applications
+add source to apt: /etc/apt/sources.list.d
